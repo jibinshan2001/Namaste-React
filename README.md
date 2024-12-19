@@ -1,3 +1,2 @@
 # Namsate react 
-shibily
 
